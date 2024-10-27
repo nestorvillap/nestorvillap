@@ -1,11 +1,37 @@
-👋 Hello there! I'm a passionate software engineering student specializing in Data Engineering and AI. 🚀
+### 👋 Hey there, tech adventurer! 
 
-📚 Currently pursuing my degree in Software Engineering, I'm on a quest to unravel the secrets of data, servers, and the limitless possibilities of artificial intelligence.
+I'm a Software Engineering student diving into **Data Engineering** and **AI** with boundless curiosity. 🌌
 
-🔒 With a keen interest in cybersecurity and a knack for securing servers, I'm on a mission to make the digital world a safer place.
+🚀 **On a mission** to decode data, secure servers, and push AI to new frontiers.
 
-💡 Exploring the ever-evolving landscape of AI, I'm fascinated by the endless opportunities it offers to transform our world.
+🔒 **Cybersecurity fan** at heart — because a safer digital world is a better world.
 
-🌐 Join me on my journey as I tinker with code, dive into data, and strive to make technology smarter, safer, and more exciting!
+🤖 **AI explorer** captivated by the possibilities to reshape our future.
 
-Feel free to connect and let's explore the world of tech together. 🌟
+🛠️ **Currently tinkering with:**  
+&nbsp;&nbsp;🔹 Data pipelines  
+&nbsp;&nbsp;🔹 AI algorithms  
+&nbsp;&nbsp;🔹 Secure server setups  
+
+---
+
+#### 🛠️ Tech Stack & Tools
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
+
+#### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestorvillap&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorvillap&layout=compact&theme=radical)
+
+#### 🚀 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nestorvillap&theme=onedark&row=1&column=6)
+
+---
+
+#### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nestor-villa/)
