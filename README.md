@@ -21,15 +21,6 @@ I'm a Software Engineering student diving into **Data Engineering** and **AI** w
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 
-#### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestorvillap&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorvillap&layout=compact&theme=radical)
-
-#### 🚀 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nestorvillap&theme=onedark&row=1&column=6)
-
 ---
 
 #### 🌐 Connect with Me
