@@ -3,6 +3,7 @@
 Apasionado de la **ingeniería de software** y especializado en **Data Engineering** y **Inteligencia Artificial**. 🚀
 
 🛠️ **Experiencia práctica en**:
+
 &nbsp;&nbsp;🔹 Automatización de procesos con Python  
 &nbsp;&nbsp;🔹 Desarrollo FrontEnd con Kotlin y React  
 &nbsp;&nbsp;🔹 Backend en Express y Next.js  
